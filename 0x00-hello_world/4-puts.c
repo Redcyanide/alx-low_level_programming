@@ -3,6 +3,8 @@
 /**
  * main - Entry point
  *
+ * Description: description for function main
+ *
  * Return: Always 0 (Success)
  */
 
