@@ -12,7 +12,7 @@ int n = 0;
 while (n <= 9)
 {
 printf("%d", 'n');
-n++;
+n = n + 1;
 }
 printf("\n");
 return (0);
