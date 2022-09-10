@@ -14,7 +14,7 @@ int n = 0;
 while (n < 10)
 {
 putchar(n);
-n = n + 1;
+n++;
 }
 putchar('\n');
 return (0);
