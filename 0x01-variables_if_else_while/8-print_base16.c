@@ -8,7 +8,7 @@
 int main(void)
 {
 int n = 0;
-char ch = 'f';
+char ch = 'a';
 
 while (n <= 9)
 {
