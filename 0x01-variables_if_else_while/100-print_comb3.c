@@ -21,9 +21,9 @@ if (c + d != 17)
 putchar(',');
 putchar(',');
 }
-c++;
+++c;
 }
-d++;
+++d;
 }
 putchar('\n');
 return (0);
