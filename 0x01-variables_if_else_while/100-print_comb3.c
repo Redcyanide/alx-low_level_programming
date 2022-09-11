@@ -13,8 +13,8 @@ while (d < 10)
 {
 if (d != c && d < c)
 {
-putchar('0' + d);
-putchar('0' + c);
+putchar(d + '0');
+putchar(c + '0');
 
 if (c + d != 17)
 {
