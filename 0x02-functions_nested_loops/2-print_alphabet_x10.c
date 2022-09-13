@@ -1,0 +1,23 @@
+#include "main.h"
+/**
+*print_alphabet_x10 - entry point
+*Description: a function to print the alphabet 10 times
+*Return:void
+*/
+
+void print_alphabet_x10(void)
+{
+char ch;
+int i;
+while (1 < 10)
+{
+ch = 'a';
+while (ch <= 'z')
+{
+_putchar(ch);
+ch++;
+}
+_putchar('\n');
+i++;
+}
+}
