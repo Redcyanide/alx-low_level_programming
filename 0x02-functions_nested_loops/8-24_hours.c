@@ -13,11 +13,9 @@ while (i < 24)
 j = 00;
 while (j < 60)
 {
-_putchar((i : j) + '0');
-
+_putchar(('i' : 'j') + '0');
+}
 i++;
+}
 j++;
-}
-return (void);
-}
 }
