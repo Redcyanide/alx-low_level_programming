@@ -7,9 +7,10 @@
 void times_table(void)
 {
 int a, b;
+a = 0;
 
-  
-b == 9 * a;
+
+b = 9 * a;
 while (a >= 0)
 _putchar(b + '0');
 a++;
