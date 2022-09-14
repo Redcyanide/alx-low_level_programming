@@ -13,7 +13,7 @@ a = n % 10;
 if (n <= 0)
 n = -n;
 _putchar(a + '0');
-else if (a <= 0)
+if (a <= 0)
 _putchar(a + '0');
 return (a);
 }
