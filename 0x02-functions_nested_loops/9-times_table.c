@@ -11,7 +11,7 @@ a = 0;
 
 
 b = 9 * a;
-while (a >= 0)
+while (a <= 12)
 _putchar(b + '0');
 a++;
 }
